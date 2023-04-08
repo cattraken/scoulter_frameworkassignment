@@ -1,9 +1,8 @@
-h1 {
-    font-size: 90px;
-    color: red; 
-    
+
+
+.mynav {
+  background-image: url('https://64.media.tumblr.com/7592c0a95ff27f50a86889f37ed9cf43/8e4c5ac1a1eb2673-1a/s500x750/6ddfaf98aaab35ad8923c15f14c915f67f478dc0.gifv');
+  height:100vh;
+    z-index: 5000;
 }
 
-body {
-    background-color:#000;
-}
