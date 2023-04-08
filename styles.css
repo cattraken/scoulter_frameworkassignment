@@ -1,8 +1,11 @@
-
-
-.mynav {
-  background-image: url('https://64.media.tumblr.com/7592c0a95ff27f50a86889f37ed9cf43/8e4c5ac1a1eb2673-1a/s500x750/6ddfaf98aaab35ad8923c15f14c915f67f478dc0.gifv');
-  height:100vh;
-    z-index: 5000;
-}
-
+		.cwimg {
+			background-image: 
+				url("https://64.media.tumblr.com/b6ce6faec9e7c19e033cd3a128cc7406/21fcc5bb365fc379-ea/s540x810/6c09bbc376e161fb1130f956c4fd34492ca83a11.gifv");
+			padding-top: 10vw;
+			padding-bottom: 10vw;
+      padding-left:20px;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			position: relative;
+		}
