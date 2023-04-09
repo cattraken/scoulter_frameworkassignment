@@ -1,6 +1,19 @@
 		.cwimg {
 			background-image: 
-				url("https://64.media.tumblr.com/b6ce6faec9e7c19e033cd3a128cc7406/21fcc5bb365fc379-ea/s540x810/6c09bbc376e161fb1130f956c4fd34492ca83a11.gifv");
+				url("https://64.media.tumblr.com/b57fe42de015683818885b3e40ab3a80/3874374640da06ae-52/s540x810/92bd50f43dcd57c232ff9c0fb2633930a3635eab.gifv");
+			padding-top: 10vw;
+			padding-bottom: 10vw;
+      padding-left:20px;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			position: relative;
+		}
+
+
+		.imgtwo {
+			background-image: 
+				url("https://64.media.tumblr.com/c4b16324521da1522265c01430c67f03/459c894cc174ae2b-30/s640x960/f467e7e6d2429add5659f60d63f31de423cb882f.gifv");
 			padding-top: 10vw;
 			padding-bottom: 10vw;
       padding-left:20px;
